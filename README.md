@@ -5,7 +5,7 @@ This program takes in an audio input and converts the frequency bytes at every m
 
 Generally speaking, I can tell you frequency bytes around 3-6 will best emulate melodic vocals in a song. Higher byte values will then tend to become more as background/ambient noise that occurs in the song, but do yield some dynamic visuals in audio passages that alternate between high and low impact moments. However, do not let that discourage from pasting on different frequency byte values of higher numbers because there is an ample difference between each individual frequency byte. Frequency byte 2 is designed to represent the most impactful tones in the song (basically the bass). Because of that, I made the bass beats different from every other beat design in order to capture the contrasts between the bass and melody during the song.
 
-# How to use:
+# How to use
 
   -Select and play an MP3 file from your computer. 
   
@@ -17,7 +17,7 @@ Generally speaking, I can tell you frequency bytes around 3-6 will best emulate 
   
   -Up arrow: Populate the canvas with 30 random frequency beats.
 
-# Caveats:
+# Caveats
 
   -Having a lot of beats (starting at around 50+ or so) on your canvas will result in significant lag and loss of performance. Place large  numbers of beats at your own risk.
   
